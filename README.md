@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **owner@glitchiethedev.com**
 
-- ⚡ Fun fact **Bananas are berries, but strawberries aren't!**
+- ⚡ Fun fact <img src="dev-kas.github.io/fun-fact.html"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
