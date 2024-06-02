@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **owner@glitchiethedev.com**
 
-- ⚡ Fun fact <img src="dev-kas.github.io/fun-fact.html"></img>
+- ⚡ Fun fact ![dev-kas's Top Languages](https://dev-kas.github.io/dev-kas/fun-fact.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
