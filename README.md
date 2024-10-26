@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-kas" alt="dev-kas" /></a> </p>
 
-<p align="left"> <a href="https://x/___KA5___" target="blank"><img src="https://img.shields.io/twitter/follow/___KA5___?logo=twitter&style=for-the-badge" alt="___KA5___" /></a> </p>
+<p align="left"> <a href="https://x.com/___KA5___" target="blank"><img src="https://img.shields.io/twitter/follow/___KA5___?logo=x&style=for-the-badge" alt="___KA5___" /></a> </p>
 
 - 🔭 I’m currently working on [Talkium](https://talkium.in)
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/__kas__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="__kas__" height="30" width="40" /></a>
-<a href="https://twitter.com/glitchiethedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glitchiethedev" height="30" width="40" /></a>
+<a href="https://x.com/___KA5___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___KA5___" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21837040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21837040" height="30" width="40" /></a>
 <a href="https://kaggle.com/gtdkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gtdkas" height="30" width="40" /></a>
 <a href="https://discord.gg/nStz98w2Cw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nStz98w2Cw" height="30" width="40" /></a>
