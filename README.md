@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-kas" alt="dev-kas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/glitchiethedev" target="blank"><img src="https://img.shields.io/twitter/follow/glitchiethedev?logo=twitter&style=for-the-badge" alt="glitchiethedev" /></a> </p>
+<p align="left"> <a href="https://x/___KA5___" target="blank"><img src="https://img.shields.io/twitter/follow/___KA5___?logo=twitter&style=for-the-badge" alt="___KA5___" /></a> </p>
 
 - 🔭 I’m currently working on [Talkium](https://talkium.in)
 
