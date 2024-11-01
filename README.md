@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm KAS</h1>
-<h3 align="center">🧑‍💻 Your average programmer 🧑‍💻</h3>
+<h3 align="center">🧑‍💻 Just an intermediate programmer 🧑‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-kas&label=Profile%20Visits&color=1aa7ff&style=flat" alt="dev-kas" /> </p>
 
