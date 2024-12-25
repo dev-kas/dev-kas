@@ -39,6 +39,10 @@
 </p>
 -->
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-kas&show_icons=true&theme=dark&cache_seconds=60&locale=en&card_width=400" alt="dev-kas" height="200px" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-kas&theme=dark" alt="dev-kas" height="200px"/>|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-kas&show_icons=true&theme=dark&cache_seconds=60&locale=en&card_width=400" alt="dev-kas" height="200px" />|<img align="center" src="https://codeium.com/profile/dev-kas/card.png" alt="dev-kas" height="200px"/>|
 |--|--|
+
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=dev-kas&theme=dark -->
+
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-kas&show_icons=true&theme=dark&locale=en&layout=compact&card_width=900" alt="dev-kas" height="200px" width="98%"/></p>
