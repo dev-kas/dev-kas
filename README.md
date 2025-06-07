@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://x.com/___KA5___" target="blank"><img src="https://img.shields.io/twitter/follow/___KA5___?logo=x&style=for-the-badge" alt="___KA5___" /></a> </p>
 
-- 🔭 I’m currently working on [Talkium](https://talkium.in)
+- 🔭 I’m currently working on [Xel](https://github.com/dev-kas/xel) and [VirtLang](https://github.com/dev-kas/virtlang-go)
 
-- 🌱 I’m currently learning **Golang**
+<!-- - 🌱 I’m currently learning **PLACEHOLDER** -->
 
-- 💬 Ask me about **Javascript, Python, Lua (Roblox)**
+- 💬 Ask me about **Xel, Javascript, Python, Lua (Roblox), Golang**
 
 - 📫 How to reach me **owner@glitchiethedev.com**
 
