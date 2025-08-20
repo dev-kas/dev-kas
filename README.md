@@ -1,11 +1,11 @@
-
+![Header](./banner.png)
 
 <h1 align="center">Hi 👋, I'm KAS</h1>
 <h3 align="center">🧑‍💻 Just an intermediate programmer 🧑‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-kas&label=Profile%20Visits&color=1aa7ff&style=flat" alt="dev-kas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-kas" alt="dev-kas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-kas&theme=onedark" alt="dev-kas" /></a> </p>
 
 <p align="left"> <a href="https://x.com/___KA5___" target="blank"><img src="https://img.shields.io/twitter/follow/___KA5___?logo=x&style=for-the-badge" alt="___KA5___" /></a> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Xel, Javascript, Python, Lua (Roblox), Golang**
 
-- 📫 How to reach me **owner@glitchiethedev.com**
+- 📫 How to reach me **kas@creonixai.com**
 
 - ⚡ Fun fact **Bananas are berries, but strawberries aren't!**
 
@@ -39,10 +39,8 @@
 </p>
 -->
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-kas&show_icons=true&theme=dark&cache_seconds=60&locale=en&card_width=400" alt="dev-kas" height="200px" />|<img align="center" src="https://codeium.com/profile/dev-kas/card.png" alt="dev-kas" height="200px"/>|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-kas&show_icons=true&theme=dark&cache_seconds=60&locale=en&card_width=400" alt="dev-kas" height="200px" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-kas&theme=dark" alt="dev-kas" height="200px"/>|
 |--|--|
-
-<!-- https://github-readme-streak-stats.herokuapp.com/?user=dev-kas&theme=dark -->
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-kas&show_icons=true&theme=dark&locale=en&layout=compact&card_width=900" alt="dev-kas" height="200px" width="98%"/></p>
