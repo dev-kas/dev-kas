@@ -39,7 +39,7 @@
 </p>
 -->
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-kas&show_icons=true&theme=dark&cache_seconds=60&locale=en&card_width=400" alt="dev-kas" height="200px" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-kas&theme=dark" alt="dev-kas" height="200px"/>|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-kas&show_icons=true&theme=dark&cache_seconds=30&locale=en&card_width=400" alt="dev-kas" height="200px" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-kas&theme=dark" alt="dev-kas" height="200px"/>|
 |--|--|
 
 
